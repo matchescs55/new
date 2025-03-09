@@ -1,0 +1,1 @@
+- **Português (Portuguese):** Olá! Meu nome é [Nome]. Sou professor(a) e adoro ajudar os alunos a aprender novos idiomas.

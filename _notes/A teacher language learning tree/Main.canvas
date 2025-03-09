@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"54ac17590c07ce87","type":"file","file":"A teacher language learning tree/English language learning tree..md","x":0,"y":0,"width":400,"height":400},
+		{"id":"c22bd03c29c0ec32","x":640,"y":-100,"width":400,"height":600,"type":"file","file":"Teacher tools/For online clase.md"}
+	],
+	"edges":[
+		{"id":"7d00ca1ad02b731c","fromNode":"c22bd03c29c0ec32","fromSide":"left","toNode":"54ac17590c07ce87","toSide":"right"},
+		{"id":"66ce88329aa2b836","fromNode":"54ac17590c07ce87","fromSide":"right","toNode":"c22bd03c29c0ec32","toSide":"left"}
+	]
+}

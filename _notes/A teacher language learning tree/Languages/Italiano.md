@@ -1,0 +1,1 @@
+- **Italiano (Italian):** Ciao! Mi chiamo [Nome]. Sono insegnante e adoro aiutare gli studenti a imparare nuove lingue.

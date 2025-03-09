@@ -1,0 +1,1 @@
+**日本語 (Japanese - Romaji):** こんにちは！私の名前は[名前]です。私は教育者であり、言語習得を促進し、学生に学ぶことへの情熱を育むことに情熱を注いでいます。(Konnichiwa! Watashi wa [Namae] desu. Watashi wa kyōikusha de ari, gengo shutoku o sokushin shi, gakusei ni manabu koto e no jōnetsu o hagukumu koto ni jōnetsu o sosoi de imasu.)

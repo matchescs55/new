@@ -1,0 +1,1 @@
+- **한국어 (Korean - Romanized):** 안녕하세요! 제 이름은 [이름]입니다. 저는 교육자로서 언어 습득을 촉진하고, 학생들이 학습에 대한 열정을 키우도록 돕는 것에 열정을 가지고 있습니다. (Annyeonghaseyo! Je ireumeun [Ireum] imnida. Jeoneun gyoyukjaro seo eoneo seupdeugeul chokjin hago, hagsaengdeuri haksseube daehan yeoljeongeul kiwodolok domneun geose yeoljeongeul gajigo itsseumnida.)
